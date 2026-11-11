@@ -1,0 +1,8 @@
+{
+    "name": "elimarcosmorais/php-test",
+    "description": "Projeto de exemplo em PHP 8.5",
+    "type": "project",
+    "require": {
+        "php": ">=8.5"
+    }
+}
